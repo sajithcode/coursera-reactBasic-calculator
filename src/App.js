@@ -49,7 +49,7 @@ function App() {
   return ( 
     <div className="App"> 
       <div> 
-        <h1>Simplest Working Calculator</h1> 
+        <h1>Simplest Working Calculator-Coursera</h1> 
       </div> 
       <form> 
         <p ref={resultRef}> 
